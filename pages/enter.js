@@ -5,3 +5,15 @@ export default function EnterPage({ }) {
         </main>
     )
 }
+
+function SignInButton(){
+
+}
+
+function SignOutButton(){
+
+}
+
+function UsernameForm(){
+    
+}
